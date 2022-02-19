@@ -33,7 +33,7 @@
     "minimumXpmRequired": "0.11.2",
     "binaries": {
       "destination": "./",
-      "baseUrl": "https://github.com/displode/stm32-cube-programmer-xpack/archive/refs/tags/",
+      "baseUrl": "https://github.com/displode/stm32cubewb-xpack/archive/refs/tags/",
       "skip": 1,
       "platforms": {
         "linux-arm": {
