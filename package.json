@@ -1,6 +1,6 @@
 {
   "name": "@displode/stm32cubewb-xpack",
-  "version": "0.1.1-s1.13.1",
+  "version": "0.1.2-s1.13.1",
   "description": "A source xPack for STM32CubeWB",
   "main": "",
   "repository": {
@@ -37,25 +37,25 @@
       "skip": 1,
       "platforms": {
         "linux-arm": {
-          "fileName": "xpack-v0.1.1-s1.13.1.tar.gz"
+          "fileName": "xpack-v0.1.2-s1.13.1.tar.gz"
         },
         "linux-arm64": {
-          "fileName": "xpack-v0.1.1-s1.13.1.tar.gz"
+          "fileName": "xpack-v0.1.2-s1.13.1.tar.gz"
         },
         "linux-ia32": {
-          "fileName": "xpack-v0.1.1-s1.13.1.tar.gz"
+          "fileName": "xpack-v0.1.2-s1.13.1.tar.gz"
         },
         "linux-x64": {
-          "fileName": "xpack-v0.1.1-s1.13.1.tar.gz"
+          "fileName": "xpack-v0.1.2-s1.13.1.tar.gz"
         },
         "darwin-x64": {
-          "fileName": "xpack-v0.1.1-s1.13.1.tar.gz"
+          "fileName": "xpack-v0.1.2-s1.13.1.tar.gz"
         },
         "win32-ia32": {
-          "fileName": "xpack-v0.1.1-s1.13.1.zip"
+          "fileName": "xpack-v0.1.2-s1.13.1.zip"
         },
         "win32-x64": {
-          "fileName": "xpack-v0.1.1-s1.13.1.zip"
+          "fileName": "xpack-v0.1.2-s1.13.1.zip"
         }
       }
     }
