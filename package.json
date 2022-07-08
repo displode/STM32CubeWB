@@ -1,6 +1,6 @@
 {
   "name": "@displode/stm32cubewb-xpack",
-  "version": "0.1.5-s1.13.3",
+  "version": "0.2.0-s1.14.0",
   "description": "A source xPack for STM32CubeWB",
   "main": "",
   "repository": {
@@ -16,7 +16,7 @@
   ],
   "author": {
     "name": "displode",
-    "email": "displodegroup@gmail.com",
+    "email": "info@displode.com",
     "url": "https://github.com/displode"
   },
   "contributors": [
