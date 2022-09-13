@@ -1,6 +1,6 @@
 {
   "name": "@displode/stm32cubewb-xpack",
-  "version": "0.2.0-s1.14.0",
+  "version": "0.2.1-s1.14.1",
   "description": "A source xPack for STM32CubeWB",
   "main": "",
   "repository": {
