@@ -1,6 +1,6 @@
 {
   "name": "@displode/stm32cubewb-xpack",
-  "version": "0.2.1-s1.14.1",
+  "version": "0.2.2-s1.14.1",
   "description": "A source xPack for STM32CubeWB",
   "main": "",
   "repository": {
@@ -23,6 +23,10 @@
     {
       "name": "STMicroelectronics",
       "url": "https://github.com/STMicroelectronics/STM32CubeWB"
+    },
+	{
+      "name": "STMicroelectronics",
+      "url": "https://github.com/STMicroelectronics/stm32_mw_usb_device"
     }
   ],
   "license": "LICENSE.md",
