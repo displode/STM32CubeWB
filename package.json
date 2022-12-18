@@ -1,6 +1,6 @@
 {
   "name": "@displode/stm32cubewb-xpack",
-  "version": "0.3.1-s1.15.0",
+  "version": "0.3.2-s1.15.0",
   "description": "A source xPack for STM32CubeWB",
   "main": "",
   "repository": "github:displode/stm32cubewb",
@@ -26,17 +26,5 @@
   "xpack": {
     "minimumXpmRequired": "0.14.0"
   },
-  "files": [
-    "Drivers/**/*.h",
-    "Drivers/**/*.c",
-    "Drivers/**/LICENSE.*",
-    "Middlewares/**/*.h",
-    "Middlewares/**/*.c",
-    "Middlewares/**/LICENSE.*",
-    "Utilities/**/*.h",
-    "Utilities/**/*.c",
-    "Utilities/**/LICENSE.*",
-    "package.xml",
-    "how_to_program_wireless_stacks.txt"
-  ]
+  "files": ["*"]
 }

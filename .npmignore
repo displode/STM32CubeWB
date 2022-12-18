@@ -1,0 +1,15 @@
+.npmignore
+
+.github/
+Documentation/
+Projects/
+Utilities/Media/
+Utilities/PC_Software
+*.md
+
+**/_htmresc/
+**/html/
+**/ReleaseNotes.html
+**/Release_Notes.html
+**/docs/
+**/doc/
