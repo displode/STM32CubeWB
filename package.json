@@ -1,13 +1,10 @@
 {
   "name": "@displode/stm32cubewb-xpack",
-  "version": "0.3.0-s1.15.0",
+  "version": "0.3.1-s1.15.0",
   "description": "A source xPack for STM32CubeWB",
   "main": "",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/displode/stm32cubewb.git"
-  },
-    "bugs": {
+  "repository": "github:displode/stm32cubewb",
+  "bugs": {
     "url": "https://github.com/displode/stm32cubewb/issues"
   },
   "homepage": "https://github.com/displode/stm32cubewb",
